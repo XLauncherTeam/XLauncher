@@ -1,1 +1,1 @@
-# HEXClient
+# X Launcher
